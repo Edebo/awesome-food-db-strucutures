@@ -1,5 +1,10 @@
 # awesome-food-db-strucutures
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-food-db-strucutures) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-food-db-strucutures)
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
+
 
 
 - https://dba.stackexchange.com/questions/145222/structure-a-database-for-a-blog
@@ -14,9 +19,13 @@
 - https://dba.stackexchange.com/questions/161146/filter-ingredients-choices-for-recipe-database-by-category-or-dynamic-search?rq=1
 - https://dba.stackexchange.com/questions/168897/best-way-to-design-a-database-for-a-bakery-store?rq=1
 
+https://myxxrecipes.com/#/recipe (This is for the concept of being able to purchase the items on your grocery list automatically. So, however the recipe calls for the system will add the item based on your measurement) They also have a separate company for the business partnerships.  With this I would say we could do it for resturants and smaller grocery stores.)
+
+https://ketofoodist.com/fast-food-restaurants-keto/ **(Here is an example of a Keto food list on product hunt)**
+https://nutrita.app/?ref=producthunt **(Here is another) :) **
 
 
------------------
+----------------- 
 
 #### attrib
 
@@ -187,10 +196,11 @@ Type	Web Label	   API Parameter	Definition
 
 ```
 
-https://github.com/schollz/parseingredient
-https://raw.githubusercontent.com/tabatkins/recipe-db/master/db-recipes.json
+- https://github.com/schollz/parseingredient
+- https://raw.githubusercontent.com/tabatkins/recipe-db/master/db-recipes.json
 
 
+Great datasets here: https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
 
 
 
